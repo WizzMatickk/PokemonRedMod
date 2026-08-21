@@ -1,5 +1,5 @@
 SECTION "bank1", ROMX
-
+; hello
 INCLUDE "data/sprites/facings.asm"
 INCLUDE "engine/events/black_out.asm"
 INCLUDE "data/pokemon/mew.asm"
